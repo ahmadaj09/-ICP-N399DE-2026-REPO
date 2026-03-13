@@ -1,6 +1,7 @@
 # GUARDKEY PRO
 
-<img width="691" height="440" alt="13 03 2026_22 19 39_REC" src="https://github.com/user-attachments/assets/15d41ee4-ef62-4e7b-a86e-fbc44ff73613" />
+<img width="1536" height="1024" alt="ChatGPT Image Mar 13, 2026, 11_25_31 PM" src="https://github.com/user-attachments/assets/370f2e94-6469-48b7-b8d8-529871bf918d" />
+
 
 
 GUARDKEY PRO is a Python-based password strength analysis tool that evaluates password quality and provides actionable security recommendations.
